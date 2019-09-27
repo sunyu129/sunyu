@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/galera-install:0.1
+FROM gcr.io/google_containers/mysql-galera:e2e
 MAINTAINER SUNYU <sunyu.chinaunicom@gamil.com>
